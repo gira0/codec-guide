@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to the Codec Guide","text":"<p>Codecs and more soon!</p> <p>Please see the project license for further details.</p>"},{"location":"about/","title":"About","text":"<p>This stuff here</p>"}]}
