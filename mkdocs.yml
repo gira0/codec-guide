@@ -3,5 +3,6 @@ nav:
   - 'about.md'
 site_url: https://gira0.github.io
 site_name: Codec Guide
+docs_dir: '.'
 theme:
   name: material
